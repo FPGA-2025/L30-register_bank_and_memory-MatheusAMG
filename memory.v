@@ -14,5 +14,15 @@ module Memory #(
     output wire        ack_o       // Confirmação da transação
 );
 
+reg [31:0] memory [0:MEMORY_SIZE - 1]; // Tamanho da memoria especificado
+
+assign data_o = (rd_en_i) ? memory[addr_i[31:2]] : 32'b0;
+assign ack_o = 1'b1;
+
+always @(posedge clk) begin
+    if (wr_en_i) begin
+        memory[addr_i[31:2]] <= data_i;
+    end
+end
 
 endmodule

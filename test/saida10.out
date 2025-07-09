@@ -1,0 +1,85 @@
+VCD info: dumpfile saida.vcd opened for output.
+Iniciando Testbench...
+Total de linhas lidas: 20
+Desempacotando linha 0: 1080501e0603c07000000782d65cee5xxxxxxxxxxxxxxxxxxxxxxxx0
+=== ERRO RS1[0] DADO: 00000000 (EXP: xxxxxxxx)
+=== OK  RS2[16] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00000782
+Desempacotando linha 1: 11f1602de69d8e0000003cc9558c326xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO RS2[0] DADO: 00000000 (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00003cc9
+Desempacotando linha 2: 117161400000000000003dcc738c83fxxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== OK  RS2[1] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00003dcc
+Desempacotando linha 3: 00b1012000000000000005800000000xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== OK  RS2[1] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00000580
+Desempacotando linha 4: 10d0d1500000000000000ac3024f603xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[16] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== OK  RS2[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00000ac3
+Desempacotando linha 5: 110140500000000000001144535c535xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[1] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO RS2[0] DADO: 00000000 (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00001144
+Desempacotando linha 6: 00e091a000000000000020c00000000xxxxxxxxxxxxxxxxxxxxxxxx0
+=== ERRO RS1[0] DADO: 00000000 (EXP: xxxxxxxx)
+=== OK  RS2[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 000020c0
+Desempacotando linha 7: 00c1b16000000000000002000000000xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[1] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== OK  RS2[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00000200
+Desempacotando linha 8: 0091e173e871c2e0000013000000000xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== OK  RS2[1] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00001300
+Desempacotando linha 9: 11d020c679cb055000002e80ee7cb92xxxxxxxxde69d8e0xxxxxxxx0
+=== ERRO RS1[16] DADO: 00000000 (EXP: xxxxxxxd)
+=== ERRO RS2[0] DADO: 00000000 (EXP: e69d8e0x)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00002e80
+Desempacotando linha 10: 0081a0800000000000001e400000000xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[1] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO RS2[0] DADO: 00000000 (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00001e40
+Desempacotando linha 11: 112170f02b570d6000003b4573f4bf0xxxxxxxx3e871c2exxxxxxxx0
+=== ERRO RS1[1] DADO: xxxxxxxx (EXP: xxxxxxx3)
+=== ERRO RS2[16] DADO: 00000000 (EXP: e871c2ex)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00003b45
+Desempacotando linha 12: 10b130800000000000000a02994e964xxxxxxxxxxxxxxxxxxxxxxxx0
+=== OK  RS1[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO RS2[16] DADO: 2b570d60 (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00000a02
+Desempacotando linha 13: 10d17128dfde448000003e88fd16c13xxxxxxxx3e871c2exxxxxxxx0
+=== ERRO RS1[17] DADO: xxxxxxxx (EXP: xxxxxxx3)
+=== ERRO RS2[17] DADO: xxxxxxxx (EXP: e871c2ex)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00003e88
+Desempacotando linha 14: 109031d6688e4330000021c2ff35fd6xxxxxxxxxxxxxxxxxxxxxxxx0
+=== ERRO RS1[16] DADO: 2b570d60 (EXP: xxxxxxxx)
+=== OK  RS2[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 000021c2
+Desempacotando linha 15: 102171b000000000000006ce4a44102de69d8e03e871c2exxxxxxxx0
+=== ERRO RS1[1] DADO: xxxxxxxx (EXP: e69d8e03)
+=== ERRO RS2[17] DADO: xxxxxxxx (EXP: e871c2ex)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 000006ce
+Desempacotando linha 16: 01f0404000000000000022c00000000xxxxxxxxxxxxxxxxxxxxxxxx0
+=== ERRO RS1[16] DADO: 00000000 (EXP: xxxxxxxx)
+=== ERRO RS2[0] DADO: 00000000 (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 000022c0
+Desempacotando linha 17: 0070d12000000000000019c00000000xxxxxxxxxxxxxxxxxxxxxxxx0
+=== ERRO RS1[16] DADO: 00000000 (EXP: xxxxxxxx)
+=== OK  RS2[17] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 000019c0
+Desempacotando linha 18: 119170a00000000000003bc011372e8xxxxxxxx3e871c2exxxxxxxx0
+=== ERRO RS1[17] DADO: xxxxxxxx (EXP: xxxxxxx3)
+=== ERRO RS2[16] DADO: 00000000 (EXP: e871c2ex)
+=== ERRO MEM_DADO: xxxxxxxx (EXP: xxxxxxx0) addr: 00003bc0
+Desempacotando linha 19: 11101502f6d430a5000003c4803d941axxxxxxxxxxxxxxxxxxxxxxxx
+=== ERRO RS1[16] DADO: 00000000 (EXP: xxxxxxxx)
+=== OK  RS2[21] DADO: xxxxxxxx (EXP: xxxxxxxx)
+=== OK MEM_DADO: xxxxxxxx (EXP: xxxxxxxx)
+Testbench finalizado com sucesso.
+tb.v:201: $finish called at 1010000 (1ps)
