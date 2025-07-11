@@ -18,9 +18,9 @@ assign RS2_data_o = register_bank[RS2_ADDR_i]; //Pegar o conteudo do registrador
 
 always @(posedge clk) begin //Não tenho que iniciar os registradores com um rst_n
     if (wr_en_i && (RD_ADDR_i != 5'b0)) begin
-        register_bank[RD_ADDR_i] <= data_i;
+        register_bank[RD_ADDR_i] = data_i;
     end
-    register_bank[0] <= 32'b0;
+    register_bank[0] = 32'b0;
 end
 
 
